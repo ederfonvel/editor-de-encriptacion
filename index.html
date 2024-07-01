@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Editor Encriptador</title>
+</head>
+<body>
+    
+    <main class="container__editor">
+        <div class="container__header">
+            <img class="img__header" src="/img/encriptado2.png" alt="Encriptador">
+            <p class="textp__editor">Editor Encriptador</p>
+        </div>
+        <textarea name="" id="texto__encriptar" class="text__editor text__editor__first" placeholder="Digite su palabra ó frase..." ></textarea>
+        <div class="container__info">
+            <img class="img__info" src="/img/informacion3.png" alt="Logo informacion">
+            <p class="textp__info">Solo letras minúsculas y sin acentos</p>
+        </div>
+        <div class="containter__button">
+            <button onclick="encriptarTexto()" id="encriptar" class="btn__editor btn__encriptar" type="button">Encriptar</button>
+            <button onclick="desencriptarTexto()" id="desencriptar" class="btn__editor btn__desencriptar" type="button">Desencriptar</button>
+        </div>        
+        <textarea class="text__editor text__editor__secund" name="" id="texto__encriptado" readonly placeholder="Sin resultado de le encriptación..."></textarea>
+        <button onclick="copiarResultado()" class="btn__editor1 bnt__copy" type="button">Copiar</button>
+    </main>
+    <footer class="footer">
+        Challenge by <a href="#" target="_blank">Alura - Oracle</a>. Coded by <a href="#">Edwind Fontalvo</a>.
+    </footer>
+    <script src="/js/script.js"></script>
+</body>
+</html>
