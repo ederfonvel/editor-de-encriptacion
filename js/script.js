@@ -33,5 +33,5 @@ function copiarResultado() {
     resultado.select();
     resultado.setSelectionRange(0, 99999); /* For mobile devices */
     document.execCommand('copy');
-    alert('¡Texto copiado!');
+    
 }
