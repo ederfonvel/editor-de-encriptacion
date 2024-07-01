@@ -9,5 +9,6 @@
   <li>Botón de Desencriptar</li>
   <li>Botón de Copiar</li>
 </ul>
+Para iniciar la aplicaicon debes ejecutar index.html
 
 <h2>Estado del proyecto:Challenger finalizado.</h2>
