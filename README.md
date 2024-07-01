@@ -28,4 +28,4 @@ Adpatable a diferentes dispositivos pc escritorio, tablet y mobile.
 <img src="https://github.com/ederfonvel/editor-de-encriptacion/assets/151783136/87ad7d49-b625-451e-8a1f-dfca05c0e911">
 <h2>Para mobile:</h2>
 <img src="https://github.com/ederfonvel/editor-de-encriptacion/assets/151783136/a74f10c9-1ff2-4a3c-8caa-b34fbf9cc260">
-<h2>Estado del proyecto:Challenger finalizado.</h2>
+<h2>Estado del proyecto:Challenge finalizado.</h2>
